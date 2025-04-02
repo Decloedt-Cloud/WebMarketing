@@ -566,8 +566,9 @@ class UACF7_CF {
 					$uacf7_cf_operator = $value['uacf7_cf_operator'];
 					$uacf7_cf_tn = rtrim($value['uacf7_cf_tn'], '[]');
 					
-					$posted_value = is_array( $posted_data[ $uacf7_cf_tn ] ) && in_array( $uacf7_cf_val, $posted_data[ $uacf7_cf_tn ] ) ? $uacf7_cf_val : $posted_data[ $uacf7_cf_tn ];
-					
+					// $posted_value = is_array( $posted_data[ $uacf7_cf_tn ] ) && in_array( $uacf7_cf_val, $posted_data[ $uacf7_cf_tn ] ) ? $uacf7_cf_val : $posted_data[ $uacf7_cf_tn ];
+					$posted_value = is_array($posted_data[$uacf7_cf_tn]) ? implode(',', $posted_data[$uacf7_cf_tn]) : $posted_data[$uacf7_cf_tn];
+				
 					// Condition for Equal  
 					if ( $uacf7_cf_operator == 'equal' && $posted_value == $uacf7_cf_val ) {
 						$condition_status[] = 'true';
@@ -646,7 +647,10 @@ class UACF7_CF {
 
 				// Check if the conditions for any 
 				if ( $uacf7_cf_conditions_for == 'any' ) {
-					if ( ! in_array( 'false', $condition_status ) ) {
+					
+					$normalized_conditions = array_map(fn($v) => $v === 'true', (array) $condition_status);
+
+					if ( in_array(true, $normalized_conditions, true) ) {
 						if ( $uacf7_cf_hs == 'show' ) {
 							$mail_body = preg_replace( '/\[' . $uacf7_cf_group . '\]/s', '', $mail_body );
 							$mail_body = preg_replace( '/\[\/' . $uacf7_cf_group . '\]/s', '', $mail_body );
