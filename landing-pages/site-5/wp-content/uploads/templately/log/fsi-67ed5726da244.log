@@ -1,0 +1,57 @@
+{"type":"eventLog","action":"eventLog","info":"create_log_dir","results":"Templately\\Core\\Importer\\FullSiteImport::import::365","timestamp":"2025-04-02 15:26:31"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:26:31"}
+{"action":"updateLog","type":"writing_permission_check","progress":100,"message":"Permission Passed","status":"complete","timestamp":"2025-04-02 15:26:31"}
+{"action":"updateLog","type":"download","progress":1,"message":"Downloading Template Pack","timestamp":"2025-04-02 15:26:31"}
+{"action":"updateLog","type":"download","progress":57,"message":"Downloading Template Pack","timestamp":"2025-04-02 15:26:32"}
+{"action":"updateLog","type":"download","progress":100,"message":"Downloading Template Pack","status":"complete","timestamp":"2025-04-02 15:26:32"}
+{"type":"continue","action":"continue","info":"download_zip","results":"Templately\\Core\\Importer\\FullSiteImport::import::400","timestamp":"2025-04-02 15:26:32"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:26:33"}
+{"action":"removeLog","type":"temp","progress":100,"timestamp":"2025-04-02 15:26:33"}
+{"action":"eventLog","type":"dependencies","progress":0,"message":"Updating customizer settings.","timestamp":"2025-04-02 15:26:33"}
+{"action":"updateLog","type":"theme","progress":0,"message":"Installing and Activating Theme: Hello Elementor","timestamp":"2025-04-02 15:26:33"}
+{"action":"updateLog","status":"complete","message":"Activated theme: Hello Elementor","type":"theme","progress":100,"timestamp":"2025-04-02 15:26:33"}
+{"action":"removeLog","type":"plugin","progress":100,"timestamp":"2025-04-02 15:26:33"}
+{"action":"eventLog","type":"dependencies","progress":100,"message":"Updating customizer settings.","status":"complete","timestamp":"2025-04-02 15:26:33"}
+{"type":"continue","action":"continue","name":"","index":0,"results":null,"timestamp":"2025-04-02 15:26:33"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:26:34"}
+{"action":"removeLog","type":"temp","progress":100,"timestamp":"2025-04-02 15:26:34"}
+{"type":"continue","action":"continue","name":"","index":1,"results":null,"timestamp":"2025-04-02 15:26:34"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:26:35"}
+{"action":"removeLog","type":"temp","progress":100,"timestamp":"2025-04-02 15:26:35"}
+{"action":"eventLog","type":"customizer","progress":0,"message":"Updating customizer settings.","timestamp":"2025-04-02 15:26:35"}
+{"action":"eventLog","type":"customizer","progress":0,"message":"Updating customizer settings.","timestamp":"2025-04-02 15:26:35"}
+{"action":"eventLog","type":"customizer","progress":100,"message":"Updating customizer settings.","status":"complete","timestamp":"2025-04-02 15:26:35"}
+{"type":"continue","action":"continue","name":"","index":2,"results":null,"timestamp":"2025-04-02 15:26:35"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:26:36"}
+{"action":"removeLog","type":"temp","progress":100,"timestamp":"2025-04-02 15:26:36"}
+{"type":"continue","action":"continue","name":"","index":3,"results":null,"timestamp":"2025-04-02 15:26:36"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:26:36"}
+{"action":"removeLog","type":"temp","progress":100,"timestamp":"2025-04-02 15:26:36"}
+{"action":"updateLog","type":"templates","progress":0,"message":"Importing Templates (i.e: Header, Footer, etc)","timestamp":"2025-04-02 15:26:36"}
+{"action":"updateLog","type":"templates","progress":50,"message":"Importing Templates (i.e: Header, Footer, etc)","timestamp":"2025-04-02 15:26:37"}
+{"action":"updateLog","type":"templates","progress":100,"message":"Importing Templates (i.e: Header, Footer, etc)","status":"complete","timestamp":"2025-04-02 15:26:37"}
+{"action":"updateLog","type":"templates","progress":100,"message":"Importing Templates (i.e: Header, Footer, etc)","status":"complete","timestamp":"2025-04-02 15:26:37"}
+{"type":"continue","action":"continue","name":"","index":4,"results":null,"timestamp":"2025-04-02 15:26:37"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:26:38"}
+{"action":"removeLog","type":"temp","progress":100,"timestamp":"2025-04-02 15:26:38"}
+{"type":"continue","action":"continue","name":"","index":5,"results":null,"timestamp":"2025-04-02 15:26:38"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:26:39"}
+{"action":"removeLog","type":"temp","progress":100,"timestamp":"2025-04-02 15:26:39"}
+{"action":"updateLog","type":"content","progress":0,"message":"Importing Elementor Page and Post Templates","timestamp":"2025-04-02 15:26:39"}
+{"action":"updateLog","type":"content","progress":100,"message":"Importing Elementor Page and Post Templates","status":"complete","timestamp":"2025-04-02 15:26:39"}
+{"action":"updateLog","type":"content","progress":100,"message":"Importing Elementor Page and Post Templates","status":"complete","timestamp":"2025-04-02 15:26:39"}
+{"type":"continue","action":"continue","name":"","index":6,"results":null,"timestamp":"2025-04-02 15:26:39"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:26:39"}
+{"action":"removeLog","type":"temp","progress":100,"timestamp":"2025-04-02 15:26:39"}
+{"action":"updateLog","type":"wp-content","progress":0,"message":"Importing Content (Pages, Posts, Products, Navigation)","timestamp":"2025-04-02 15:26:39"}
+{"action":"updateLog","type":"wp-content","progress":16,"message":"Importing Content (Pages, Posts, Products, Navigation)","timestamp":"2025-04-02 15:26:41"}
+{"action":"updateLog","type":"wp-content","progress":33,"message":"Importing Content (Pages, Posts, Products, Navigation)","timestamp":"2025-04-02 15:26:41"}
+{"action":"updateLog","type":"wp-content","progress":50,"message":"Importing Content (Pages, Posts, Products, Navigation)","timestamp":"2025-04-02 15:26:41"}
+{"action":"updateLog","type":"wp-content","progress":100,"message":"Importing Content (Pages, Posts, Products, Navigation)","status":"complete","timestamp":"2025-04-02 15:26:41"}
+{"type":"continue","action":"continue","name":"","index":7,"results":null,"timestamp":"2025-04-02 15:26:41"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:26:43"}
+{"action":"removeLog","type":"temp","progress":100,"timestamp":"2025-04-02 15:26:43"}
+{"action":"updateLog","type":"finalize","progress":0,"message":"Finalizing Your Imports","timestamp":"2025-04-02 15:26:43"}
+{"action":"updateLog","type":"finalize","progress":100,"message":"Finalizing Your Imports","status":"complete","timestamp":"2025-04-02 15:26:46"}
+{"action":"updateLog","type":"finalize","progress":100,"message":"Finalizing Your Imports","status":"complete","timestamp":"2025-04-02 15:26:46"}
+{"type":"complete","action":"complete","results":{"attachments":0,"attachments_fail":0,"attachments_errors":[],"templates":2,"contents":{"page":1},"wp-content":{"post":6},"post_types":["Pages","Articles"],"template_types":["header","footer"],"dependency_data":[]},"timestamp":"2025-04-02 15:26:47"}

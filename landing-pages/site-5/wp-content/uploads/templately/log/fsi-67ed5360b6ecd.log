@@ -1,0 +1,94 @@
+{"type":"eventLog","action":"eventLog","info":"create_log_dir","results":"Templately\\Core\\Importer\\FullSiteImport::import::365","timestamp":"2025-04-02 15:10:25"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:10:25"}
+{"action":"updateLog","type":"writing_permission_check","progress":100,"message":"Permission Passed","status":"complete","timestamp":"2025-04-02 15:10:25"}
+{"action":"updateLog","type":"download","progress":1,"message":"Downloading Template Pack","timestamp":"2025-04-02 15:10:25"}
+{"action":"updateLog","type":"download","progress":57,"message":"Downloading Template Pack","timestamp":"2025-04-02 15:10:26"}
+{"action":"updateLog","type":"download","progress":100,"message":"Downloading Template Pack","status":"complete","timestamp":"2025-04-02 15:10:26"}
+{"type":"continue","action":"continue","info":"download_zip","results":"Templately\\Core\\Importer\\FullSiteImport::import::400","timestamp":"2025-04-02 15:10:26"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:10:27"}
+{"action":"removeLog","type":"temp","progress":100,"timestamp":"2025-04-02 15:10:27"}
+{"action":"eventLog","type":"dependencies","progress":0,"message":"Updating customizer settings.","timestamp":"2025-04-02 15:10:27"}
+{"action":"updateLog","type":"theme","progress":0,"message":"Installing and Activating Theme: Hello Elementor","timestamp":"2025-04-02 15:10:27"}
+{"action":"updateLog","status":"complete","message":"Activated theme: Hello Elementor","type":"theme","progress":100,"timestamp":"2025-04-02 15:10:31"}
+{"action":"updateLog","type":"plugin","progress":0,"message":"Installing Required Plugins: Fluent Forms","timestamp":"2025-04-02 15:10:31"}
+{"action":"updateLog","type":"plugin","progress":50,"message":"Installing Required Plugins: NotificationX","timestamp":"2025-04-02 15:10:40"}
+{"action":"updateLog","status":"complete","message":"Installed Required Plugins (2\/2)","type":"plugin","progress":100,"timestamp":"2025-04-02 15:10:45"}
+{"action":"eventLog","type":"dependencies","progress":100,"message":"Updating customizer settings.","status":"complete","timestamp":"2025-04-02 15:10:45"}
+{"type":"continue","action":"continue","name":"","index":0,"results":null,"timestamp":"2025-04-02 15:10:45"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:10:47"}
+{"action":"removeLog","type":"temp","progress":100,"timestamp":"2025-04-02 15:10:47"}
+{"action":"updateLog","type":"attachments","progress":0,"message":"Importing Attachments: (0\/1)","timestamp":"2025-04-02 15:10:47"}
+{"action":"updateLog","type":"attachments","progress":4,"message":"Importing Attachments: (1\/27)","timestamp":"2025-04-02 15:10:47"}
+{"action":"updateLog","type":"attachments","progress":8,"message":"Importing Attachments: (2\/27)","timestamp":"2025-04-02 15:10:47"}
+{"action":"updateLog","type":"attachments","progress":12,"message":"Importing Attachments: (3\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":15,"message":"Importing Attachments: (4\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":19,"message":"Importing Attachments: (5\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":23,"message":"Importing Attachments: (6\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":26,"message":"Importing Attachments: (7\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":30,"message":"Importing Attachments: (8\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":34,"message":"Importing Attachments: (9\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":38,"message":"Importing Attachments: (10\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":41,"message":"Importing Attachments: (11\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":45,"message":"Importing Attachments: (12\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":49,"message":"Importing Attachments: (13\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":52,"message":"Importing Attachments: (14\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":56,"message":"Importing Attachments: (15\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":60,"message":"Importing Attachments: (16\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":63,"message":"Importing Attachments: (17\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":67,"message":"Importing Attachments: (18\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":71,"message":"Importing Attachments: (19\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":75,"message":"Importing Attachments: (20\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":78,"message":"Importing Attachments: (21\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":82,"message":"Importing Attachments: (22\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":86,"message":"Importing Attachments: (23\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":89,"message":"Importing Attachments: (24\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":93,"message":"Importing Attachments: (25\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":97,"message":"Importing Attachments: (26\/27)","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":100,"message":"Importing Attachments: (27\/27)","status":"complete","timestamp":"2025-04-02 15:10:48"}
+{"action":"updateLog","type":"attachments","progress":100,"message":"Importing Attachments: (27\/27)","status":"complete","timestamp":"2025-04-02 15:10:48"}
+{"type":"continue","action":"continue","name":"","index":1,"results":null,"timestamp":"2025-04-02 15:10:48"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:10:50"}
+{"action":"removeLog","type":"temp","progress":100,"timestamp":"2025-04-02 15:10:50"}
+{"action":"eventLog","type":"customizer","progress":0,"message":"Updating customizer settings.","timestamp":"2025-04-02 15:10:50"}
+{"action":"eventLog","type":"customizer","progress":0,"message":"Updating customizer settings.","timestamp":"2025-04-02 15:10:50"}
+{"action":"eventLog","type":"customizer","progress":100,"message":"Updating customizer settings.","status":"complete","timestamp":"2025-04-02 15:10:50"}
+{"type":"continue","action":"continue","name":"","index":2,"results":null,"timestamp":"2025-04-02 15:10:50"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:10:51"}
+{"action":"removeLog","type":"temp","progress":100,"timestamp":"2025-04-02 15:10:51"}
+{"action":"eventLog","type":"extra-content","progress":0,"message":"Importing Forms and Others Extra Contents","timestamp":"2025-04-02 15:10:51"}
+{"action":"eventLog","type":"extra-content","progress":100,"message":"Importing Forms and Others Extra Contents","status":"complete","timestamp":"2025-04-02 15:10:51"}
+{"type":"continue","action":"continue","name":"","index":3,"results":null,"timestamp":"2025-04-02 15:10:51"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:10:51"}
+{"action":"removeLog","type":"temp","progress":100,"timestamp":"2025-04-02 15:10:51"}
+{"action":"updateLog","type":"templates","progress":0,"message":"Importing Templates (i.e: Header, Footer, etc)","timestamp":"2025-04-02 15:10:51"}
+{"action":"updateLog","type":"templates","progress":50,"message":"Importing Templates (i.e: Header, Footer, etc)","timestamp":"2025-04-02 15:10:53"}
+{"action":"updateLog","type":"templates","progress":100,"message":"Importing Templates (i.e: Header, Footer, etc)","status":"complete","timestamp":"2025-04-02 15:10:53"}
+{"action":"updateLog","type":"templates","progress":100,"message":"Importing Templates (i.e: Header, Footer, etc)","status":"complete","timestamp":"2025-04-02 15:10:53"}
+{"type":"continue","action":"continue","name":"","index":4,"results":null,"timestamp":"2025-04-02 15:10:53"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:10:54"}
+{"action":"removeLog","type":"temp","progress":100,"timestamp":"2025-04-02 15:10:54"}
+{"type":"continue","action":"continue","name":"","index":5,"results":null,"timestamp":"2025-04-02 15:10:54"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:10:55"}
+{"action":"removeLog","type":"temp","progress":100,"timestamp":"2025-04-02 15:10:55"}
+{"action":"updateLog","type":"content","progress":0,"message":"Importing Elementor Page and Post Templates","timestamp":"2025-04-02 15:10:55"}
+{"action":"updateLog","type":"content","progress":100,"message":"Importing Elementor Page and Post Templates","status":"complete","timestamp":"2025-04-02 15:10:56"}
+{"action":"updateLog","type":"content","progress":100,"message":"Importing Elementor Page and Post Templates","status":"complete","timestamp":"2025-04-02 15:10:56"}
+{"type":"continue","action":"continue","name":"","index":6,"results":null,"timestamp":"2025-04-02 15:10:56"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:10:57"}
+{"action":"removeLog","type":"temp","progress":100,"timestamp":"2025-04-02 15:10:57"}
+{"action":"updateLog","type":"wp-content","progress":0,"message":"Importing Content (Pages, Posts, Products, Navigation)","timestamp":"2025-04-02 15:10:57"}
+{"action":"updateLog","type":"wp-content","progress":7,"message":"Importing Content (Pages, Posts, Products, Navigation)","timestamp":"2025-04-02 15:10:57"}
+{"action":"updateLog","type":"wp-content","progress":15,"message":"Importing Content (Pages, Posts, Products, Navigation)","timestamp":"2025-04-02 15:10:57"}
+{"action":"updateLog","type":"wp-content","progress":23,"message":"Importing Content (Pages, Posts, Products, Navigation)","timestamp":"2025-04-02 15:10:57"}
+{"action":"updateLog","type":"wp-content","progress":30,"message":"Importing Content (Pages, Posts, Products, Navigation)","timestamp":"2025-04-02 15:10:57"}
+{"action":"updateLog","type":"wp-content","progress":38,"message":"Importing Content (Pages, Posts, Products, Navigation)","timestamp":"2025-04-02 15:10:57"}
+{"action":"updateLog","type":"wp-content","progress":100,"message":"Importing Content (Pages, Posts, Products, Navigation)","status":"complete","timestamp":"2025-04-02 15:10:57"}
+{"type":"continue","action":"continue","name":"","index":7,"results":null,"timestamp":"2025-04-02 15:10:57"}
+{"type":"start","action":"eventLog","results":"Templately\\Core\\Importer\\FullSiteImport::import::378","timestamp":"2025-04-02 15:10:59"}
+{"action":"removeLog","type":"temp","progress":100,"timestamp":"2025-04-02 15:10:59"}
+{"action":"updateLog","type":"finalize","progress":0,"message":"Finalizing Your Imports","timestamp":"2025-04-02 15:10:59"}
+{"action":"updateLog","type":"finalize","progress":33,"message":"Finalizing Your Imports","timestamp":"2025-04-02 15:11:00"}
+{"action":"updateLog","type":"finalize","progress":66,"message":"Finalizing Your Imports","timestamp":"2025-04-02 15:11:00"}
+{"action":"updateLog","type":"finalize","progress":100,"message":"Finalizing Your Imports","status":"complete","timestamp":"2025-04-02 15:11:02"}
+{"action":"updateLog","type":"finalize","progress":100,"message":"Finalizing Your Imports","status":"complete","timestamp":"2025-04-02 15:11:02"}
+{"type":"complete","action":"complete","results":{"attachments":27,"attachments_fail":0,"attachments_errors":[],"templates":2,"contents":{"page":1},"wp-content":{"post":5,"nav_menu_item":3},"post_types":["Pages","Articles"],"template_types":["header","footer"],"dependency_data":[]},"timestamp":"2025-04-02 15:11:03"}
